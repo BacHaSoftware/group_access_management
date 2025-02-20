@@ -8,7 +8,7 @@
     <img src="/bhs_access/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Mail Domain</h3>
+  <h3 align="center">Groups Access Management</h3>
 
   <p align="center">
     A product of Bac Ha Software that allows managing access groups quickly and conveniently.

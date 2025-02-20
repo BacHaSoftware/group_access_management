@@ -15,7 +15,7 @@
     ],
     'external_dependencies': {
     },
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
     'license': 'LGPL-3'
